@@ -1,0 +1,326 @@
+[
+  {
+    "purchaser": "Phil",
+    "description": "\"Rental car AKA \"\"The Widowmaker\"\" / \"\"Rape Van\"\"\"",
+    "price": "$738.79",
+    "participants": [
+      "All"
+    ],
+    "category": "transportation"
+  },
+  {
+    "purchaser": "Phil",
+    "description": "Buffalo Wild Wings @ Hobby",
+    "price": "$56.63",
+    "participants": [
+      "\"Phil"
+    ],
+    "category": "Jason"
+  },
+  {
+    "purchaser": "Phil",
+    "description": "Alcohol at Buffalo Wild Wings @ Hobby",
+    "price": "$36.24",
+    "participants": [
+      "\"Phil"
+    ],
+    "category": "Jason\""
+  },
+  {
+    "purchaser": "Phil",
+    "description": "Dancing Pines Distillery",
+    "price": "$132.27",
+    "participants": [
+      "\"Henning"
+    ],
+    "category": "Phil"
+  },
+  {
+    "purchaser": "Phil",
+    "description": "Food truck @ Zwei Bruder",
+    "price": "$6.96",
+    "participants": [
+      "\"Jason"
+    ],
+    "category": "Deuce"
+  },
+  {
+    "purchaser": "Phil",
+    "description": "Zwei Bruder",
+    "price": "$14.00",
+    "participants": [
+      "\"Jason"
+    ],
+    "category": "Deuce"
+  },
+  {
+    "purchaser": "Phil",
+    "description": "Uncle Andy's Jerkying Shop",
+    "price": "$30.03",
+    "participants": [
+      "All"
+    ],
+    "category": "food"
+  },
+  {
+    "purchaser": "Phil",
+    "description": "20 Recreationals",
+    "price": "$23.48",
+    "participants": [
+      "All"
+    ],
+    "category": "recreationals"
+  },
+  {
+    "purchaser": "Ben",
+    "description": "House",
+    "price": "\"$1",
+    "participants": [
+      "209.89\""
+    ],
+    "category": "All"
+  },
+  {
+    "purchaser": "Ben",
+    "description": "Beer",
+    "price": "$131.82",
+    "participants": [
+      "\"Jason"
+    ],
+    "category": "Deuce"
+  },
+  {
+    "purchaser": "Ben",
+    "description": "\"Food",
+    "price": "costco\"",
+    "participants": [
+      "$424.80"
+    ],
+    "category": "All"
+  },
+  {
+    "purchaser": "Ben",
+    "description": "Beer Festival",
+    "price": "$186.25",
+    "participants": [
+      "\"Jason"
+    ],
+    "category": "Deuce"
+  },
+  {
+    "purchaser": "Shots",
+    "description": "10 Recreationals",
+    "price": "$20.00",
+    "participants": [
+      "All"
+    ],
+    "category": "recreationals"
+  },
+  {
+    "purchaser": "Shots",
+    "description": "Equinox Brewing",
+    "price": "$34.38",
+    "participants": [
+      "\"Henning"
+    ],
+    "category": "Phil"
+  },
+  {
+    "purchaser": "Shots",
+    "description": "Snowbank Brewing",
+    "price": "$38.12",
+    "participants": [
+      "\"Henning"
+    ],
+    "category": "Phil"
+  },
+  {
+    "purchaser": "Shots",
+    "description": "Walgreens FC (soda and stuff)",
+    "price": "$22.24",
+    "participants": [
+      "All"
+    ],
+    "category": "food"
+  },
+  {
+    "purchaser": "Shots",
+    "description": "Trailhead tavern",
+    "price": "$26.00",
+    "participants": [
+      "\"Henning"
+    ],
+    "category": "Phil"
+  },
+  {
+    "purchaser": "Deuce",
+    "description": "Loveland Aleworks",
+    "price": "$39.66",
+    "participants": [
+      "\"Jason"
+    ],
+    "category": "Deuce"
+  },
+  {
+    "purchaser": "Henning",
+    "description": "NEXT DOOR",
+    "price": "$103.00",
+    "participants": [
+      "\"Jason"
+    ],
+    "category": "Deuce"
+  },
+  {
+    "purchaser": "Henning",
+    "description": "Alcohol @ NEXT DOOR",
+    "price": "$83.63",
+    "participants": [
+      "\"Jason"
+    ],
+    "category": "Deuce"
+  },
+  {
+    "purchaser": "Henning",
+    "description": "1 Fecreationals Bar",
+    "price": "$24.65",
+    "participants": [
+      "All"
+    ],
+    "category": "recreationals"
+  },
+  {
+    "purchaser": "Henning",
+    "description": "Zwei Bruder",
+    "price": "$58.00",
+    "participants": [
+      "\"Jason"
+    ],
+    "category": "Deuce"
+  },
+  {
+    "purchaser": "Henning",
+    "description": "Equinox Brewing",
+    "price": "$42.96",
+    "participants": [
+      "\"Jason"
+    ],
+    "category": "Deuce"
+  },
+  {
+    "purchaser": "Henning",
+    "description": "Spring44",
+    "price": "$40.00",
+    "participants": [
+      "\"Jason"
+    ],
+    "category": "Deuce"
+  },
+  {
+    "purchaser": "Henning",
+    "description": "Root Down",
+    "price": "$69.00",
+    "participants": [
+      "\"Jason"
+    ],
+    "category": "Phil"
+  },
+  {
+    "purchaser": "Henning",
+    "description": "Root Down (Alcohol)",
+    "price": "$62.24",
+    "participants": [
+      "\"Jason"
+    ],
+    "category": "Phil"
+  },
+  {
+    "purchaser": "George",
+    "description": "Snooze cafe",
+    "price": "$182.93",
+    "participants": [
+      "All"
+    ],
+    "category": "food"
+  },
+  {
+    "purchaser": "Phil",
+    "description": "Tolls",
+    "price": "$21.70",
+    "participants": [
+      "\"Jason"
+    ],
+    "category": "Phil"
+  },
+  {
+    "purchaser": "Jason",
+    "description": "Verboten Brewing",
+    "price": "$106.25",
+    "participants": [
+      "\"Jason"
+    ],
+    "category": "Deuce"
+  },
+  {
+    "purchaser": "Jason",
+    "description": "Airport Parking",
+    "price": "$40.00",
+    "participants": [
+      "\"Jason"
+    ],
+    "category": "Phil"
+  },
+  {
+    "purchaser": "Steven",
+    "description": "Henning Cigars",
+    "price": "$5.00",
+    "participants": [
+      "Henning"
+    ],
+    "category": "cigars"
+  },
+  {
+    "purchaser": "Steven",
+    "description": "Shots Cigars",
+    "price": "$10.00",
+    "participants": [
+      "Shots"
+    ],
+    "category": "cigars"
+  },
+  {
+    "purchaser": "Steven",
+    "description": "Deuce Cigars",
+    "price": "$5.00",
+    "participants": [
+      "Deuce"
+    ],
+    "category": "cigars"
+  },
+  {
+    "purchaser": "Steven",
+    "description": "Ben Cigars",
+    "price": "$10.00",
+    "participants": [
+      "Ben"
+    ],
+    "category": "cigars"
+  },
+  {
+    "purchaser": "Steven",
+    "description": "Phil Cigars",
+    "price": "$10.00",
+    "participants": [
+      "Phil"
+    ],
+    "category": "cigars"
+  },
+  {
+    "purchaser": "Steven",
+    "description": "Jason Cigars",
+    "price": "$5.00",
+    "participants": [
+      "Jason"
+    ],
+    "category": "cigars"
+  }
+]

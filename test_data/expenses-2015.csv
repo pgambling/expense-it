@@ -1,0 +1,37 @@
+purchaser,description,price,participants,category
+Phil,"Rental car AKA ""The Widowmaker"" / ""Rape Van""",$738.79,All,transportation
+Phil,Buffalo Wild Wings @ Hobby,$56.63,"Phil, Jason, Steven",food
+Phil,Alcohol at Buffalo Wild Wings @ Hobby,$36.24,"Phil, Jason",alcohol
+Phil,Dancing Pines Distillery,$132.27,"Henning, Phil, Deuce, Ben, Jason",alcohol
+Phil,Food truck @ Zwei Bruder,$6.96,"Jason, Deuce, Phil, Ben, Steven, Henning",food
+Phil,Zwei Bruder,$14.00,"Jason, Deuce, Phil, Ben, Henning, George",alcohol
+Phil,Uncle Andy's Jerkying Shop,$30.03,All,food
+Phil,20 Recreationals,$23.48,All,recreationals
+Ben,House,"$1,209.89",All,lodging
+Ben,Beer,$131.82,"Jason, Deuce, Phil, Ben, Henning, Shots, George",alcohol
+Ben,"Food, costco",$424.80,All,food
+Ben,Beer Festival ,$186.25,"Jason, Deuce, Phil, Ben, Henning, Shots, George",alcohol
+Shots,10 Recreationals,$20.00,All,recreationals
+Shots,Equinox Brewing,$34.38,"Henning, Phil, Shots, Deuce, Ben, Sai, Jason",alcohol
+Shots,Snowbank Brewing,$38.12,"Henning, Phil, Shots, Deuce, Ben, Sai, Jason",alcohol
+Shots,Walgreens FC (soda and stuff),$22.24,All,food
+Shots,Trailhead tavern,$26.00,"Henning, Phil, Shots, Deuce, Ben, Sai, Jason",alcohol
+Deuce,Loveland Aleworks,$39.66,"Jason, Deuce, Phil, Ben, Henning",alcohol
+Henning,NEXT DOOR,$103.00,"Jason, Deuce, Phil, Ben, Steven, Henning",food
+Henning,Alcohol @ NEXT DOOR,$83.63,"Jason, Deuce, Phil, Ben, Henning",alcohol
+Henning,1 Fecreationals Bar,$24.65,All,recreationals
+Henning,Zwei Bruder,$58.00,"Jason, Deuce, Phil, Ben, Henning, Shots, George",alcohol
+Henning,Equinox Brewing,$42.96,"Jason, Deuce, Phil, Ben, Henning, Shots, George",alcohol
+Henning,Spring44,$40.00,"Jason, Deuce, Phil, Ben, Henning, Shots, George",alcohol
+Henning,Root Down,$69.00,"Jason, Phil, Steven, Henning, Deuce",food
+Henning,Root Down (Alcohol),$62.24,"Jason, Phil, Henning, Deuce",alcohol
+George,Snooze cafe,$182.93,All,food
+Phil,Tolls,$21.70,"Jason, Phil, Steven, Henning, Deuce",transportation
+Jason,Verboten Brewing,$106.25,"Jason, Deuce, Phil, Ben, Henning",alcohol
+Jason,Airport Parking,$40.00,"Jason, Phil, Steven",transportation
+Steven,Henning Cigars,$5.00,Henning,cigars
+Steven,Shots Cigars,$10.00,Shots,cigars
+Steven,Deuce Cigars,$5.00,Deuce,cigars
+Steven,Ben Cigars,$10.00,Ben,cigars
+Steven,Phil Cigars,$10.00,Phil,cigars
+Steven,Jason Cigars,$5.00,Jason,cigars
